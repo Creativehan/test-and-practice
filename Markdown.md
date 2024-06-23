@@ -15,6 +15,9 @@
 
 ***а это болд и италик вместе***
 
+[Тестовая ссылка](https://stackoverflow.com/questions/11183788/in-a-git-repository-how-to-properly-rename-a-directory)
+
+
 
 > ### The quarterly results look great!
 >
