@@ -14,15 +14,21 @@
         },
         {
             "subscriber_key" : "6d35fd36-5d8c-47ec-a3e3-4b7c9343e287",
-            "firstname" : "Masha4",
+            "firstname" : "Masha5",
             "lastname" : "Romanchenko",
             "emailaddress" : "masha@email.com"
         },
         {
             "subscriber_key" : "063d777d-7b31-48e3-8a8b-167dba6ef41c",
-            "firstname" : "Katya4",
+            "firstname" : "Katya5",
             "lastname" : "Vlaschenko",
-            "emailaddress" : "katya@email.com"
+            "emailaddress" : "katya@newemail.com"
+        },
+        {
+            "subscriber_key" : "hjrw3d777d-7b31-48e3-8a8b-167db54534",
+            "firstname" : "Vlada",
+            "lastname" : "Gushenko",
+            "emailaddress" : "vlada@email.com"
         }
     ]
 }
