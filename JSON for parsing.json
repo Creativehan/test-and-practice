@@ -2,15 +2,15 @@
     "Users": [
         {
             "subscriber_key" : "f2e9cd70-56e4-4522-b749-6d242f45b1de",
-            "firstname" : "Pavel",
+            "firstname" : "Pavel2",
             "lastname" : "Klymenko",
             "emailaddress" : "pavlo@email.com"
         },
         {
             "subscriber_key" : "61477581-bb53-4bc8-a1a9-fa12bab71b29",
-            "firstname" : "Vova",
+            "firstname" : "Vova2",
             "lastname" : "Tkachenko",
-            "emailaddress" : "vova@email.com"
+            "emailaddress" : "vova@emailnew.com"
         },
         {
             "subscriber_key" : "6d35fd36-5d8c-47ec-a3e3-4b7c9343e287",
