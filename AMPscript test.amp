@@ -1,4 +1,7 @@
 %%[
-var
-
+var @firstName
+set @firstName = "Pasha"
 ]%%
+
+%%=v(@firstName)=%%
+
