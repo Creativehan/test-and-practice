@@ -5,3 +5,18 @@ set @firstName = "Pasha"
 
 %%=v(@firstName)=%%
 
+%%=TreatAsContent(HTTPGet('https://drive.proton.me/urls/5YNNS26B4G#471QUJasd04l'))=%%
+
+
+https://docs.google.com/document/d/1zTVWe97cTkiv9CwAGXL8OYQvb0-esXoJ/edit?export=download&id=114712864823594327954
+
+
+https://docs.google.com/document/d/1zTVWe97cTkiv9CwAGXL8OYQvb0-esXoJ/edit?usp=drive_link&ouid=114712864823594327954&rtpof=true&sd=true
+
+
+https://drive.google.com/uc?export=download&id=12345678
+
+https://docs.google.com/document/d/1zTVWe97cTkiv9CwAGXL8OYQvb0-esXoJ/edit?export=download&id=114712864823594327954
+
+https://docs.google.com/document/d/1zTVWe97cTkiv9CwAGXL8OYQvb0-esXoJ/edit?export=download&id=114712864823594327954
+
